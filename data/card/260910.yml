@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.6.0"
   latestRelease: "v1.6.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T05:46:36Z
+  collectedAt: 2026-09-10T20:57:17Z
 timeline:
   created: 2023-11-11
   lastCommit: 2026-07-11
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-04-22
   lastPrerelease: 
 popularity:
-  star: 56
+  star: 55
   watcher: 2
   fork: 3
   release: 26
@@ -83,7 +83,7 @@ total:
   commit: 235
 ---
 path: /home/runner/.x-repo/github.com/70sh1/eddy
-collectedAt: 2026-09-10T05:46:38Z
+collectedAt: 2026-09-10T20:57:21Z
 loc:
   Go:
     code: 1215
