@@ -4,7 +4,7 @@
 
 Simple, fast CLI file encryption tool
 
-[![x-cmd/install — eddy Code Quality Monitoring Repo Card](https://repo.x-cmd.io/eddy.svg)](https://x-cmd.com/install/eddy)
+[![x-cmd/install — eddy Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/eddy.svg)](https://x-cmd.com/install/eddy)
 
 ## Install
 
@@ -30,7 +30,7 @@ Total: **1,215** lines of code across **16** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.6.0` (2026-04-22)
-- **Last commit**: 2026-07-11
+- **Last commit**: 2026-09-22
 - **Assets in release**: 7
 
 ## Popularity
@@ -39,18 +39,18 @@ Total: **1,215** lines of code across **16** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 26 · **Merged PRs**: 5 · **Open PRs**: 0 · **Closed issues**: 1 · **Open issues**: 0 · **Commits**: 235
+- **Releases**: 26 · **Merged PRs**: 5 · **Open PRs**: 0 · **Closed issues**: 1 · **Open issues**: 0 · **Commits**: 238
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-24 | 0 | 1 | 0 | 0 | 0 | 1 |
-| last180d | 2026-03-26 | 2 | 1 | 0 | 0 | 0 | 5 |
-| 360d | 2025-09-27 | 3 | 2 | 0 | 0 | 0 | 22 |
-| last720d | 2024-10-02 | 6 | 5 | 0 | 0 | 0 | 60 |
+| 30d | 2026-08-24 | 0 | 0 | 0 | 0 | 0 | 3 |
+| last60d | 2026-07-25 | 0 | 0 | 0 | 0 | 0 | 3 |
+| 90d | 2026-06-25 | 0 | 1 | 0 | 0 | 0 | 4 |
+| last180d | 2026-03-27 | 2 | 1 | 0 | 0 | 0 | 8 |
+| 360d | 2025-09-28 | 3 | 2 | 0 | 0 | 0 | 25 |
+| last720d | 2024-10-03 | 6 | 5 | 0 | 0 | 0 | 63 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for eddy lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:52:48Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:59:32Z._
