@@ -45,12 +45,12 @@ Total: **1,215** lines of code across **16** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 1 | 0 | 0 | 0 | 0 | 4 |
-| last60d | 2026-08-01 | 1 | 0 | 0 | 0 | 0 | 4 |
-| 90d | 2026-07-02 | 1 | 1 | 0 | 0 | 0 | 5 |
-| last180d | 2026-04-03 | 2 | 1 | 0 | 0 | 0 | 9 |
-| 360d | 2025-10-05 | 4 | 2 | 0 | 0 | 0 | 26 |
-| last720d | 2024-10-10 | 7 | 5 | 0 | 0 | 0 | 64 |
+| 30d | 2026-09-01 | 1 | 0 | 0 | 0 | 0 | 4 |
+| last60d | 2026-08-02 | 1 | 0 | 0 | 0 | 0 | 4 |
+| 90d | 2026-07-03 | 1 | 1 | 0 | 0 | 0 | 5 |
+| last180d | 2026-04-04 | 2 | 1 | 0 | 0 | 0 | 9 |
+| 360d | 2025-10-06 | 4 | 2 | 0 | 0 | 0 | 26 |
+| last720d | 2024-10-11 | 7 | 5 | 0 | 0 | 0 | 64 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for eddy lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260930.yml` · 2026-09-30T06:32:48Z._
+_Snapshot: `data/card/261001.yml` · 2026-10-01T06:36:23Z._
