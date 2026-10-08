@@ -14,11 +14,11 @@ x install eddy
 
 ## Code insight
 
-Total: **1,215** lines of code across **16** files in the top 5 languages.
+Total: **1,306** lines of code across **16** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 1,215 | 26 | 189 | 12 |
+| Go | 1,306 | 26 | 195 | 12 |
 | Markdown | 0 | 107 | 41 | 3 |
 | Text | 0 | 7,776 | 0 | 1 |
 
@@ -30,7 +30,7 @@ Total: **1,215** lines of code across **16** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.6.1` (2026-09-27)
-- **Last commit**: 2026-09-27
+- **Last commit**: 2026-10-07
 - **Assets in release**: 7
 
 ## Popularity
@@ -39,18 +39,18 @@ Total: **1,215** lines of code across **16** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 27 · **Merged PRs**: 5 · **Open PRs**: 0 · **Closed issues**: 1 · **Open issues**: 0 · **Commits**: 239
+- **Releases**: 27 · **Merged PRs**: 5 · **Open PRs**: 0 · **Closed issues**: 1 · **Open issues**: 0 · **Commits**: 241
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 1 | 0 | 0 | 0 | 0 | 4 |
-| last60d | 2026-08-08 | 1 | 0 | 0 | 0 | 0 | 4 |
-| 90d | 2026-07-09 | 1 | 1 | 0 | 0 | 0 | 4 |
-| last180d | 2026-04-10 | 2 | 1 | 0 | 0 | 0 | 9 |
-| 360d | 2025-10-12 | 4 | 2 | 0 | 0 | 0 | 26 |
-| last720d | 2024-10-17 | 6 | 5 | 0 | 0 | 0 | 61 |
+| 30d | 2026-09-08 | 1 | 0 | 0 | 0 | 0 | 6 |
+| last60d | 2026-08-09 | 1 | 0 | 0 | 0 | 0 | 6 |
+| 90d | 2026-07-10 | 1 | 0 | 0 | 0 | 0 | 6 |
+| last180d | 2026-04-11 | 2 | 1 | 0 | 0 | 0 | 11 |
+| 360d | 2025-10-13 | 4 | 2 | 0 | 0 | 0 | 28 |
+| last720d | 2024-10-18 | 6 | 5 | 0 | 0 | 0 | 63 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for eddy lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261007.yml` · 2026-10-07T06:48:44Z._
+_Snapshot: `data/card/261008.yml` · 2026-10-08T06:49:10Z._
